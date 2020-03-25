@@ -23,7 +23,7 @@ def sync_record(filename, duration, fs, channels, textfile):
 
 # playback file
 textfile = 'thoi_su.txt'
-sync_record('thoi_su_1', 10, 16000, 1, textfile)
+sync_record('thoi_su_1', 30, 16000, 1, textfile)
 
 
 	# try:
